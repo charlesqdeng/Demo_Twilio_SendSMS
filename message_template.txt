@@ -1,0 +1,1 @@
+Hello {name}, your {product_info} is expired, please update your payment information.
